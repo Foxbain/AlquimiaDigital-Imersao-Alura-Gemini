@@ -59,9 +59,3 @@ git clone https://github.com/seu-usuario/alquimia-digital.git
 
 ## 📧 Contato
 Dúvidas ou sugestões? Mande um e-mail para foxbain@gmail.com e vamos conversar!
-
-
-%% Individual node styling. Try the visual editor toolbar for easier styling!
-    style G color:#FFFFFF, stroke:#00C853, fill:#00C853
-
-%% You can add notes with two "%" signs in a row!
